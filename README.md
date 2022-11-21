@@ -1,3 +1,3 @@
-# Low Vision UTFPR
+# Efelant App
 
 The Future is Visible
